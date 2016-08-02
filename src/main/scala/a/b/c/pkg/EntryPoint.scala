@@ -7,6 +7,7 @@ object EntryPoint {
       args.foreach { x => println("Argument: "+x) }
     } else {
       System.err.println("Need exactly 2 arguments: arg1 arg2")
+      System.exit(-1)
     }    
     
     val classInstance = new MyStringClass(args(0), args(1))
