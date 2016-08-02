@@ -19,4 +19,4 @@ project/plugins/project/
 /build/
 .cache-main
 .cache-tests
-
+.gradle/
