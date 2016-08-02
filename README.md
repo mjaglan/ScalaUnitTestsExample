@@ -7,9 +7,17 @@ Simple example project to get started with writing unit tests for a Scala projec
 ###Arguments
 ``` <string1>  <string2> ```
 
-###How to Run Unit Tests
- - select project, right click
+###How to Run Unit Tests (1)
+ - select test class, right click
  - run as >> ```Scala JUnit Test```
 
-###Example Snapshot
-![Scala JUnit Test Results Screenshot](resources/images/ScalaJUnitTestExampleScreenShot.png?raw=true "Scala JUnit Test Results")
+####Example Snapshot showing all success tests
+![Scala JUnit Test Results Screenshot](resources/images/ScalaTestJUnitExampleScreenShot.png?raw=true "Scala JUnit Test Results")
+
+
+###How to Run Unit Tests (2)
+ - select test class, right click
+ - run as >> ```Gradle Test```
+
+####Example Snapshot showing all but one success tests
+![Scala JUnit Test Results Screenshot](resources/images/GradleTestJUnitExampleScreenShot.png?raw=true "Scala JUnit Test Results")
