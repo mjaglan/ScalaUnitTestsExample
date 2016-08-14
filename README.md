@@ -1,4 +1,7 @@
 ## ScalaUnitTestsExample
+
+[![Gradle Build Status](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/precise-desktop-amd64_default.svg?maxAge=2592000?style=flat-square)](https://github.com/mjaglan/ScalaUnitTestsExample)
+
 Simple example project to get started with writing unit tests for a Scala project 
 
 ###Main Class
